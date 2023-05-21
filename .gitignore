@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.iml
+*.ipynb_checkpoints/
+
+# Compiled files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Miscellaneous
+*.log
+.DS_Store
